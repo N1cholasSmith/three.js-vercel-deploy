@@ -10,9 +10,6 @@ Experimenting and learning three.js to improve my creative design skills and enf
 
 https://user-images.githubusercontent.com/88865022/155864313-a0da08fc-0984-4e1f-a5e0-a3c85fa0a38c.mp4
 
-
-https://user-images.githubusercontent.com/88865022/149930316-eec820f2-d834-4f62-a37b-487b6c63a034.mp4
-
 [3Dtextthreejs.com](https://3d-text-threejs.vercel.app/)
 ---
 ## Table of Contents
